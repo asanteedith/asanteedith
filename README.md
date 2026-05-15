@@ -35,7 +35,7 @@ Observability          →  Prometheus metrics, live dashboards, structured audi
 
 ##  Currently
 
--  **Building:** ML Infrastructure & Agentic DevOps systems
+-  **Building:** - Automated DevSecOps pipelines, AIOps systems & MLOps infrastructure
 -  **Learning:** Kubernetes, Terraform, Azure & GCP
 -  **Pursuing:** AWS Certified Cloud Practitioner
 -  **Writing:** Engineering deep-dives on [Dev.to](https://dev.to/edithasante)
