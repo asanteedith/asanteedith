@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+AIOps;MLOps;Building+Infrastructure+That+Secures+Itself;Open+to+Global+Remote+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;FinOps Enthusthiast+%7C+Technical Writer;MLOps;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,12 +13,12 @@
 
 ## Edith Asante
 
-**Cloud & DevOps Engineer · DevSecOps · AIOps .MLOps**
+**Cloud & DevOps Engineer · FinOps Enthusiast · Technical Writer**
 
 I build production-grade infrastructure tools that are **secure**, **observable**, and **self-enforcing**.
 Not just systems — but the tools that **deploy**, **monitor**, and **protect** them.
 
- Kumasi, Ghana &nbsp;|&nbsp;  Open to Global Remote &nbsp;|&nbsp;  [dev.to/edithasante](https://dev.to/edithasante)
+ Kumasi, Ghana &nbsp;|&nbsp;  [dev.to/edithasante](https://dev.to/edithasante)
 
 ---
 
